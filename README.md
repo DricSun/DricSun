@@ -13,4 +13,4 @@ Helllooooooo a toi  jeune entrepreneur(se) !!!!!!!!!
     <img align="center" width="40%" src="https://media.giphy.com/media/cMCgTNveyUhMY/giphy.gif?cid=ecf05e47fjlco0rycry3u4dy7yyi0ipi3045ih0kc2osq2ny&rid=giphy.gif&ct=g" />
 </p>
 
- Me joindre avec mon adresse mail[adresse mail](mailto:cedric.jamme@edu.devinci.fr)
+ Me joindre avec mon adresse mail ci joint [adresse mail](mailto:cedric.jamme@edu.devinci.fr)
