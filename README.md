@@ -14,3 +14,6 @@ Helllooooooo a toi  jeune entrepreneur(se) !!!!!!!!!
 </p>
 
  Me joindre avec mon adresse mail ci joint [adresse mail](mailto:cedric.jamme@edu.devinci.fr)
+
+
+![Stats de DricSun sur github](https://github.com/DricSun/DricSun/edit/main/README.md)
